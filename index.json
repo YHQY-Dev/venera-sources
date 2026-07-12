@@ -2,337 +2,337 @@
   {
     "name": "漫客栈",
     "key": "mkzhan",
-    "filename": "mkzhan.js",
     "version": "1.0.1",
-    "description": "搜索 / 热门 / 章节 / 图片"
+    "description": "搜索 / 热门 / 章节 / 图片",
+    "fileName": "mkzhan.js"
   },
   {
     "name": "知音漫客",
     "key": "zymk",
-    "filename": "zymk.js",
     "version": "1.0.1",
-    "description": "分类浏览 / 章节 / 图片；站内搜索页当前不可用"
+    "description": "分类浏览 / 章节 / 图片；站内搜索页当前不可用",
+    "fileName": "zymk.js"
   },
   {
     "name": "动漫啦",
     "key": "dongmanla",
-    "filename": "dongmanla.js",
     "version": "1.0.0",
-    "description": "搜索 / 连载完结分类 / 章节 / 图片"
+    "description": "搜索 / 连载完结分类 / 章节 / 图片",
+    "fileName": "dongmanla.js"
   },
   {
     "name": "漫画柜",
     "key": "manhuagui",
-    "filename": "manhuagui.js",
     "version": "1.2.2",
-    "description": "列表 / 搜索 / LZString 图片解码"
+    "description": "列表 / 搜索 / LZString 图片解码",
+    "fileName": "manhuagui.js"
   },
   {
     "name": "Mangabz",
     "key": "mangabz",
-    "filename": "mangabz.js",
     "version": "1.0.0",
-    "description": "列表 / 搜索 / chapterimage.ashx"
+    "description": "列表 / 搜索 / chapterimage.ashx",
+    "fileName": "mangabz.js"
   },
   {
     "name": "漫本",
     "key": "manben",
-    "filename": "manben.js",
     "version": "1.0.0",
-    "description": "dm5 系 packed newImgs"
+    "description": "dm5 系 packed newImgs",
+    "fileName": "manben.js"
   },
   {
     "name": "动漫屋",
     "key": "dm5",
-    "filename": "dm5.js",
     "version": "1.0.0",
-    "description": "dm5 系 packed newImgs"
+    "description": "dm5 系 packed newImgs",
+    "fileName": "dm5.js"
   },
   {
     "name": "X漫画",
     "key": "xmanhua",
-    "filename": "xmanhua.js",
     "version": "1.0.0",
-    "description": "Mangabz 同系 ashx"
+    "description": "Mangabz 同系 ashx",
+    "fileName": "xmanhua.js"
   },
   {
     "name": "思思漫画",
     "key": "sisimanhua",
-    "filename": "sisimanhua.js",
     "version": "1.0.0",
-    "description": "qTcms base64 图片"
+    "description": "qTcms base64 图片",
+    "fileName": "sisimanhua.js"
   },
   {
     "name": "极速漫画",
     "key": "onekkk",
-    "filename": "onekkk.js",
     "version": "1.0.1",
-    "description": "chapterfun.ashx"
+    "description": "chapterfun.ashx",
+    "fileName": "onekkk.js"
   },
   {
     "name": "漫小肆",
     "key": "pknbc",
-    "filename": "pknbc.js",
     "version": "1.0.0",
-    "description": "/book/ + 顺序图"
+    "description": "/book/ + 顺序图",
+    "fileName": "pknbc.js"
   },
   {
     "name": "再漫画",
     "key": "zaimanhua",
-    "filename": "zaimanhua.js",
     "version": "1.0.2",
-    "description": "官方配置"
+    "description": "官方配置",
+    "fileName": "zaimanhua.js"
   },
   {
     "name": "H-Comic",
     "key": "hcomic",
-    "filename": "hcomic.js",
     "version": "1.0.0",
-    "description": "官方配置"
+    "description": "官方配置",
+    "fileName": "hcomic.js"
   },
   {
     "name": "jcomic.net",
     "key": "jcomic",
-    "filename": "jcomic.js",
     "version": "1.0.0",
-    "description": "官方配置"
+    "description": "官方配置",
+    "fileName": "jcomic.js"
   },
   {
     "name": "Komiic",
     "key": "Komiic",
-    "filename": "komiic.js",
     "version": "1.0.3",
-    "description": "官方配置"
+    "description": "官方配置",
+    "fileName": "komiic.js"
   },
   {
     "name": "漫画人",
     "key": "manhuaren",
-    "filename": "manhuaren.js",
     "version": "1.0.0",
-    "description": "官方配置（dm5 系）"
+    "description": "官方配置（dm5 系）",
+    "fileName": "manhuaren.js"
   },
   {
     "name": "优酷漫画",
     "key": "ykmh",
-    "filename": "ykmh.js",
     "version": "1.0.1",
-    "description": "官方配置；首页解析含宽松兜底"
+    "description": "官方配置；首页解析含宽松兜底",
+    "fileName": "ykmh.js"
   },
   {
     "name": "热辣漫画",
     "key": "hot_manga",
-    "filename": "hot_manga.js",
     "version": "1.0.0",
-    "description": "官方配置"
+    "description": "官方配置",
+    "fileName": "hot_manga.js"
   },
   {
     "name": "comick",
     "key": "comick",
-    "filename": "comick.js",
     "version": "1.2.0",
-    "description": "官方配置"
+    "description": "官方配置",
+    "fileName": "comick.js"
   },
   {
     "name": "漫画看",
     "key": "mhkan",
-    "filename": "mhkan.js",
     "version": "1.0.0",
-    "description": "列表 / 搜索 / reader-image（wmh1234）"
+    "description": "列表 / 搜索 / reader-image（wmh1234）",
+    "fileName": "mhkan.js"
   },
   {
     "name": "动漫星空",
     "key": "gamersky",
-    "filename": "gamersky.js",
     "version": "1.0.0",
-    "description": "游民星空 ACG 漫画栏目"
+    "description": "游民星空 ACG 漫画栏目",
+    "fileName": "gamersky.js"
   },
   {
     "name": "热门漫画",
     "key": "remenmanhua",
-    "filename": "remenmanhua.js",
     "version": "1.0.0",
-    "description": "列表 /comic/ + 章节 API 图片"
+    "description": "列表 /comic/ + 章节 API 图片",
+    "fileName": "remenmanhua.js"
   },
   {
     "name": "漫画皮",
     "key": "manhuapi",
-    "filename": "manhuapi.js",
     "version": "1.0.0",
-    "description": "列表 /manhua/ + chapter jhc-data 图片"
+    "description": "列表 /manhua/ + chapter jhc-data 图片",
+    "fileName": "manhuapi.js"
   },
   {
     "name": "崩坏3漫画",
     "key": "bh3",
-    "filename": "bh3.js",
     "version": "1.0.0",
-    "description": "米哈游官方漫画 data-original"
+    "description": "米哈游官方漫画 data-original",
+    "fileName": "bh3.js"
   },
   {
     "name": "猎奇漫画",
     "key": "lieqiman",
-    "filename": "lieqiman.js",
     "version": "1.0.0",
-    "description": "单页全集 pic.lieqimh.com"
+    "description": "单页全集 pic.lieqimh.com",
+    "fileName": "lieqiman.js"
   },
   {
     "name": "MangaDex",
     "key": "mangadex",
-    "filename": "mangadex.js",
     "version": "1.0.0",
-    "description": "API 列表 / 搜索 / at-home 图片"
+    "description": "API 列表 / 搜索 / at-home 图片",
+    "fileName": "mangadex.js"
   },
   {
     "name": "168漫画",
     "key": "manhua168",
-    "filename": "manhua168.js",
     "version": "1.0.0",
-    "description": "列表 / 搜索 / 章节 API 试看图"
+    "description": "列表 / 搜索 / 章节 API 试看图",
+    "fileName": "manhua168.js"
   },
   {
     "name": "爱飒漫画",
     "key": "isamanhua",
-    "filename": "isamanhua.js",
     "version": "1.0.0",
-    "description": "跳转看漫；getchapterlist / getchapterinfov2"
+    "description": "跳转看漫；getchapterlist / getchapterinfov2",
+    "fileName": "isamanhua.js"
   },
   {
     "name": "看漫画",
     "key": "kanman",
-    "filename": "kanman.js",
     "version": "1.0.0",
-    "description": "列表 / 章节 API / chapter_img_list"
+    "description": "列表 / 章节 API / chapter_img_list",
+    "fileName": "kanman.js"
   },
   {
     "name": "18漫画",
     "key": "mh18",
-    "filename": "mh18.js",
     "version": "1.0.0",
-    "description": "官方配置；列表 / 搜索 / 章节图片"
+    "description": "官方配置；列表 / 搜索 / 章节图片",
+    "fileName": "mh18.js"
   },
   {
     "name": "Lanraragi",
     "key": "lanraragi",
-    "filename": "lanraragi.js",
     "version": "1.2.0",
-    "description": "官方配置；默认公共演示站，可改 API"
+    "description": "官方配置；默认公共演示站，可改 API",
+    "fileName": "lanraragi.js"
   },
   {
     "name": "CCC追漫台",
     "key": "ccc",
-    "filename": "ccc.js",
     "version": "1.0.1",
-    "description": "官方配置；台湾 CCC API"
+    "description": "官方配置；台湾 CCC API",
+    "fileName": "ccc.js"
   },
   {
     "name": "漫小肆",
     "key": "mxs",
-    "filename": "mxs.js",
     "version": "1.0.0",
-    "description": "官方配置；列表 / 搜索 / lazy 图片"
+    "description": "官方配置；列表 / 搜索 / lazy 图片",
+    "fileName": "mxs.js"
   },
   {
     "name": "漫蛙吧",
     "key": "manwaba",
-    "filename": "manwaba.js",
     "version": "1.0.3",
-    "description": "官方配置；mwuu.cc API"
+    "description": "官方配置；mwuu.cc API",
+    "fileName": "manwaba.js"
   },
   {
     "name": "百合会",
     "key": "baihehui",
-    "filename": "baihehui.js",
     "version": "1.0.0",
-    "description": "官方配置；yamibo.com"
+    "description": "官方配置；yamibo.com",
+    "fileName": "baihehui.js"
   },
   {
     "name": "包子漫画",
     "key": "baozi",
-    "filename": "baozi.js",
     "version": "1.1.6",
-    "description": "官方配置；默认 baozimhcn.com / 网页章节图"
+    "description": "官方配置；默认 baozimhcn.com / 网页章节图",
+    "fileName": "baozi.js"
   },
   {
     "name": "Goda 漫画",
     "key": "godamh",
-    "filename": "godamh.js",
     "version": "1.3.0",
-    "description": "G站列表 / 搜索 / v2 章节图解密"
+    "description": "G站列表 / 搜索 / v2 章节图解密",
+    "fileName": "godamh.js"
   },
   {
     "name": "紳士漫畫",
     "key": "wnacg",
-    "filename": "wnacg.js",
     "version": "1.0.5",
-    "description": "官方配置；默认镜像域名 / 单册章节"
+    "description": "官方配置；默认镜像域名 / 单册章节",
+    "fileName": "wnacg.js"
   },
   {
     "name": "禁漫天堂",
     "key": "jm",
-    "filename": "jm.js",
     "version": "1.4.0",
-    "description": "官方配置；更新 API 域名池与 APP 版本"
+    "description": "官方配置；更新 API 域名池与 APP 版本",
+    "fileName": "jm.js"
   },
   {
     "name": "ehentai",
     "key": "ehentai",
-    "filename": "ehentai.js",
     "version": "1.2.0",
-    "description": "官方配置；列表 / 搜索 / 画廊图片"
+    "description": "官方配置；列表 / 搜索 / 画廊图片",
+    "fileName": "ehentai.js"
   },
   {
     "name": "hitomi.la",
     "key": "hitomi",
-    "filename": "hitomi.js",
     "version": "1.1.2",
-    "description": "官方配置；标签索引 / 搜索 / 图片"
+    "description": "官方配置；标签索引 / 搜索 / 图片",
+    "fileName": "hitomi.js"
   },
   {
     "name": "nhentai",
     "key": "nhentai",
-    "filename": "nhentai.js",
     "version": "1.0.8",
-    "description": "官方配置；搜索 / 画廊 API 图片"
+    "description": "官方配置；搜索 / 画廊 API 图片",
+    "fileName": "nhentai.js"
   },
   {
     "name": "MangaDex (官方)",
     "key": "manga_dex",
-    "filename": "manga_dex.js",
     "version": "1.1.1",
-    "description": "官方配置；API 列表 / 搜索 / at-home 图片"
+    "description": "官方配置；API 列表 / 搜索 / at-home 图片",
+    "fileName": "manga_dex.js"
   },
   {
     "name": "Manhwa18cc",
     "key": "manhwa18cc",
-    "filename": "manhwa18cc.js",
     "version": "1.0.8",
-    "description": "韩漫 raw 列表 / 章节 / 图片"
+    "description": "韩漫 raw 列表 / 章节 / 图片",
+    "fileName": "manhwa18cc.js"
   },
   {
     "name": "漫蛙",
     "key": "manwa",
-    "filename": "manwa.js",
     "version": "1.1.6",
-    "description": "推荐 / 搜索 / 章节 / AES 图片"
+    "description": "推荐 / 搜索 / 章节 / AES 图片",
+    "fileName": "manwa.js"
   },
   {
     "name": "Webtoon",
     "key": "webtoon",
-    "filename": "webtoon.js",
     "version": "1.1.1",
-    "description": "官方配置；多语言 Webtoon 列表 / 搜索 / 章节图片"
+    "description": "官方配置；多语言 Webtoon 列表 / 搜索 / 章节图片",
+    "fileName": "webtoon.js"
   },
   {
     "name": "カドコミ",
     "key": "comic_walker",
-    "filename": "comic_walker.js",
     "version": "1.0.0",
-    "description": "官方配置；首页 / 搜索 / DRM 解密图片"
+    "description": "官方配置；首页 / 搜索 / DRM 解密图片",
+    "fileName": "comic_walker.js"
   },
   {
     "name": "如漫画",
     "key": "rumanhua",
-    "filename": "rumanhua.js",
     "version": "1.1.0",
-    "description": "列表 / 章节 / AES 解密图片"
+    "description": "列表 / 章节 / AES 解密图片",
+    "fileName": "rumanhua.js"
   }
 ]

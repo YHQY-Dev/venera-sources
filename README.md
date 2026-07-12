@@ -16,7 +16,7 @@
 
 ```
 venera-sources/
-  index.json     # 源清单（name / key / filename / version / description）
+  index.json     # 源清单（name / key / fileName / version / description）
   *.js           # ComicSource 脚本
   README.md
 ```
