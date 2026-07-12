@@ -7,13 +7,6 @@
     "fileName": "mkzhan.js"
   },
   {
-    "name": "知音漫客",
-    "key": "zymk",
-    "version": "1.0.1",
-    "description": "分类浏览 / 章节 / 图片；站内搜索页当前不可用",
-    "fileName": "zymk.js"
-  },
-  {
     "name": "动漫啦",
     "key": "dongmanla",
     "version": "1.0.0",
@@ -63,13 +56,6 @@
     "fileName": "sisimanhua.js"
   },
   {
-    "name": "极速漫画",
-    "key": "onekkk",
-    "version": "1.0.1",
-    "description": "chapterfun.ashx",
-    "fileName": "onekkk.js"
-  },
-  {
     "name": "漫小肆",
     "key": "pknbc",
     "version": "1.0.0",
@@ -98,25 +84,11 @@
     "fileName": "jcomic.js"
   },
   {
-    "name": "Komiic",
-    "key": "Komiic",
-    "version": "1.0.3",
-    "description": "官方配置",
-    "fileName": "komiic.js"
-  },
-  {
     "name": "漫画人",
     "key": "manhuaren",
     "version": "1.0.0",
     "description": "官方配置（dm5 系）",
     "fileName": "manhuaren.js"
-  },
-  {
-    "name": "优酷漫画",
-    "key": "ykmh",
-    "version": "1.0.1",
-    "description": "官方配置；首页解析含宽松兜底",
-    "fileName": "ykmh.js"
   },
   {
     "name": "热辣漫画",
@@ -140,13 +112,6 @@
     "fileName": "mhkan.js"
   },
   {
-    "name": "动漫星空",
-    "key": "gamersky",
-    "version": "1.0.0",
-    "description": "游民星空 ACG 漫画栏目",
-    "fileName": "gamersky.js"
-  },
-  {
     "name": "热门漫画",
     "key": "remenmanhua",
     "version": "1.0.0",
@@ -159,34 +124,6 @@
     "version": "1.0.0",
     "description": "列表 /manhua/ + chapter jhc-data 图片",
     "fileName": "manhuapi.js"
-  },
-  {
-    "name": "崩坏3漫画",
-    "key": "bh3",
-    "version": "1.0.0",
-    "description": "米哈游官方漫画 data-original",
-    "fileName": "bh3.js"
-  },
-  {
-    "name": "猎奇漫画",
-    "key": "lieqiman",
-    "version": "1.0.0",
-    "description": "单页全集 pic.lieqimh.com",
-    "fileName": "lieqiman.js"
-  },
-  {
-    "name": "MangaDex",
-    "key": "mangadex",
-    "version": "1.0.0",
-    "description": "API 列表 / 搜索 / at-home 图片",
-    "fileName": "mangadex.js"
-  },
-  {
-    "name": "168漫画",
-    "key": "manhua168",
-    "version": "1.0.0",
-    "description": "列表 / 搜索 / 章节 API 试看图",
-    "fileName": "manhua168.js"
   },
   {
     "name": "爱飒漫画",
@@ -210,13 +147,6 @@
     "fileName": "mh18.js"
   },
   {
-    "name": "Lanraragi",
-    "key": "lanraragi",
-    "version": "1.2.0",
-    "description": "官方配置；默认公共演示站，可改 API",
-    "fileName": "lanraragi.js"
-  },
-  {
     "name": "CCC追漫台",
     "key": "ccc",
     "version": "1.0.1",
@@ -231,32 +161,11 @@
     "fileName": "mxs.js"
   },
   {
-    "name": "漫蛙吧",
-    "key": "manwaba",
-    "version": "1.0.3",
-    "description": "官方配置；mwuu.cc API",
-    "fileName": "manwaba.js"
-  },
-  {
-    "name": "百合会",
-    "key": "baihehui",
-    "version": "1.0.0",
-    "description": "官方配置；yamibo.com",
-    "fileName": "baihehui.js"
-  },
-  {
     "name": "包子漫画",
     "key": "baozi",
     "version": "1.1.6",
     "description": "官方配置；默认 baozimhcn.com / 网页章节图",
     "fileName": "baozi.js"
-  },
-  {
-    "name": "Goda 漫画",
-    "key": "godamh",
-    "version": "1.3.0",
-    "description": "G站列表 / 搜索 / v2 章节图解密",
-    "fileName": "godamh.js"
   },
   {
     "name": "紳士漫畫",
@@ -280,53 +189,11 @@
     "fileName": "ehentai.js"
   },
   {
-    "name": "hitomi.la",
-    "key": "hitomi",
-    "version": "1.1.2",
-    "description": "官方配置；标签索引 / 搜索 / 图片",
-    "fileName": "hitomi.js"
-  },
-  {
-    "name": "nhentai",
-    "key": "nhentai",
-    "version": "1.0.8",
-    "description": "官方配置；搜索 / 画廊 API 图片",
-    "fileName": "nhentai.js"
-  },
-  {
-    "name": "MangaDex (官方)",
-    "key": "manga_dex",
-    "version": "1.1.1",
-    "description": "官方配置；API 列表 / 搜索 / at-home 图片",
-    "fileName": "manga_dex.js"
-  },
-  {
-    "name": "Manhwa18cc",
-    "key": "manhwa18cc",
-    "version": "1.0.8",
-    "description": "韩漫 raw 列表 / 章节 / 图片",
-    "fileName": "manhwa18cc.js"
-  },
-  {
     "name": "漫蛙",
     "key": "manwa",
     "version": "1.1.6",
     "description": "推荐 / 搜索 / 章节 / AES 图片",
     "fileName": "manwa.js"
-  },
-  {
-    "name": "Webtoon",
-    "key": "webtoon",
-    "version": "1.1.1",
-    "description": "官方配置；多语言 Webtoon 列表 / 搜索 / 章节图片",
-    "fileName": "webtoon.js"
-  },
-  {
-    "name": "カドコミ",
-    "key": "comic_walker",
-    "version": "1.0.0",
-    "description": "官方配置；首页 / 搜索 / DRM 解密图片",
-    "fileName": "comic_walker.js"
   },
   {
     "name": "如漫画",
