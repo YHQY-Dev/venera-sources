@@ -163,8 +163,8 @@
   {
     "name": "包子漫画",
     "key": "baozi",
-    "version": "1.1.6",
-    "description": "官方配置；默认 baozimhcn.com / 网页章节图",
+    "version": "1.1.7",
+    "description": "官方配置；默认 baozimhcn.com / 网页章节图；CDN 含 s1/s2.bzcdn.net",
     "fileName": "baozi.js"
   },
   {
@@ -201,5 +201,12 @@
     "version": "1.1.0",
     "description": "列表 / 章节 / AES 解密图片",
     "fileName": "rumanhua.js"
+  },
+  {
+    "name": "布卡漫画",
+    "key": "bukamh",
+    "version": "1.0.0",
+    "description": "www.bukamh.com / 最新热门 / AES params + 图片",
+    "fileName": "bukamh.js"
   }
 ]

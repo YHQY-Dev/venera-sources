@@ -5,7 +5,7 @@ class Baozi extends ComicSource {
   // 唯一标识符
   key = "baozi";
 
-  version = "1.1.6";
+  version = "1.1.7";
 
   minAppVersion = "1.0.0";
 
@@ -44,6 +44,8 @@ class Baozi extends ComicSource {
         { value: "asgb-a3.bzcdn.net" },
         { value: "as.baozimh.com" },
         { value: "s1.baozicdn.com" },
+        { value: "s1.bzcdn.net" },
+        { value: "s2.bzcdn.net" },
         { value: "", text: "默认" },
       ],
       default: "",

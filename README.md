@@ -48,12 +48,13 @@ venera-sources/
 | `mh18.js` | `mh18` | 1.0.0 | 18漫画 | 官方配置；列表 / 搜索 / 章节图片 |
 | `ccc.js` | `ccc` | 1.0.1 | CCC追漫台 | 官方配置；台湾 CCC API |
 | `mxs.js` | `mxs` | 1.0.0 | 漫小肆 | 官方配置；列表 / 搜索 / lazy 图片 |
-| `baozi.js` | `baozi` | 1.1.6 | 包子漫画 | 官方配置；默认 baozimhcn.com / 网页章节图 |
+| `baozi.js` | `baozi` | 1.1.7 | 包子漫画 | 官方配置；默认 baozimhcn.com / 网页章节图；CDN 含 s1/s2.bzcdn.net |
 | `wnacg.js` | `wnacg` | 1.0.5 | 紳士漫畫 | 官方配置；默认镜像域名 / 单册章节 |
 | `jm.js` | `jm` | 1.4.0 | 禁漫天堂 | 官方配置；更新 API 域名池与 APP 版本 |
 | `ehentai.js` | `ehentai` | 1.2.0 | ehentai | 官方配置；列表 / 搜索 / 画廊图片 |
 | `manwa.js` | `manwa` | 1.1.6 | 漫蛙 | 推荐 / 搜索 / 章节 / AES 图片 |
 | `rumanhua.js` | `rumanhua` | 1.1.0 | 如漫画 | 列表 / 章节 / AES 解密图片 |
+| `bukamh.js` | `bukamh` | 1.0.0 | 布卡漫画 | www.bukamh.com / 最新热门 / AES params |
 
 ## 说明
 
