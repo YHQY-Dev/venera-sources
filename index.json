@@ -56,25 +56,11 @@
     "fileName": "sisimanhua.js"
   },
   {
-    "name": "漫小肆",
-    "key": "pknbc",
-    "version": "1.0.0",
-    "description": "/book/ + 顺序图",
-    "fileName": "pknbc.js"
-  },
-  {
     "name": "再漫画",
     "key": "zaimanhua",
     "version": "1.0.2",
     "description": "官方配置",
     "fileName": "zaimanhua.js"
-  },
-  {
-    "name": "H-Comic",
-    "key": "hcomic",
-    "version": "1.0.0",
-    "description": "官方配置",
-    "fileName": "hcomic.js"
   },
   {
     "name": "jcomic.net",
@@ -89,13 +75,6 @@
     "version": "1.0.0",
     "description": "官方配置（dm5 系）",
     "fileName": "manhuaren.js"
-  },
-  {
-    "name": "热辣漫画",
-    "key": "hot_manga",
-    "version": "1.0.0",
-    "description": "官方配置",
-    "fileName": "hot_manga.js"
   },
   {
     "name": "comick",
@@ -140,13 +119,6 @@
     "fileName": "kanman.js"
   },
   {
-    "name": "18漫画",
-    "key": "mh18",
-    "version": "1.0.0",
-    "description": "官方配置；列表 / 搜索 / 章节图片",
-    "fileName": "mh18.js"
-  },
-  {
     "name": "CCC追漫台",
     "key": "ccc",
     "version": "1.0.1",
@@ -154,39 +126,11 @@
     "fileName": "ccc.js"
   },
   {
-    "name": "漫小肆",
-    "key": "mxs",
-    "version": "1.0.0",
-    "description": "官方配置；列表 / 搜索 / lazy 图片",
-    "fileName": "mxs.js"
-  },
-  {
     "name": "包子漫画",
     "key": "baozi",
     "version": "1.1.7",
     "description": "官方配置；默认 baozimhcn.com / 网页章节图；CDN 含 s1/s2.bzcdn.net",
     "fileName": "baozi.js"
-  },
-  {
-    "name": "紳士漫畫",
-    "key": "wnacg",
-    "version": "1.0.5",
-    "description": "官方配置；默认镜像域名 / 单册章节",
-    "fileName": "wnacg.js"
-  },
-  {
-    "name": "禁漫天堂",
-    "key": "jm",
-    "version": "1.4.0",
-    "description": "官方配置；更新 API 域名池与 APP 版本",
-    "fileName": "jm.js"
-  },
-  {
-    "name": "ehentai",
-    "key": "ehentai",
-    "version": "1.2.0",
-    "description": "官方配置；列表 / 搜索 / 画廊图片",
-    "fileName": "ehentai.js"
   },
   {
     "name": "漫蛙",
