@@ -55,6 +55,7 @@ venera-sources/
 | `manwa.js` | `manwa` | 1.1.6 | 漫蛙 | 推荐 / 搜索 / 章节 / AES 图片 |
 | `rumanhua.js` | `rumanhua` | 1.1.0 | 如漫画 | 列表 / 章节 / AES 解密图片 |
 | `bukamh.js` | `bukamh` | 1.0.0 | 布卡漫画 | www.bukamh.com / 最新热门 / AES params |
+| `cycomic.js` | `cycomic` | 1.0.0 | 次元漫画 | 2cycomic.com / 更新榜 / 搜索 / 直链图 |
 
 ## 说明
 

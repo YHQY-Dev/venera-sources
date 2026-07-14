@@ -208,5 +208,12 @@
     "version": "1.0.0",
     "description": "www.bukamh.com / 最新热门 / AES params + 图片",
     "fileName": "bukamh.js"
+  },
+  {
+    "name": "次元漫画",
+    "key": "cycomic",
+    "version": "1.0.0",
+    "description": "2cycomic.com / 更新榜 / 搜索 API / 章节直链图",
+    "fileName": "cycomic.js"
   }
 ]
